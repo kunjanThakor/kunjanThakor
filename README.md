@@ -47,7 +47,7 @@ A robust full-stack application focusing on HTTP requests and basic authenticati
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [Kunjan Thakor](https://www.linkedin.com/in/kunjan-thakor-b83743282/)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](mailto:kunjan7634@gmail.com)
 
 ---
 
