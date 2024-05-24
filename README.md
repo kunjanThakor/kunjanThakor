@@ -4,6 +4,8 @@
 
 ## 🚀 About Me
 
+![Coding](https://user-images.githubusercontent.com/62628408/115365763-353d5900-a1dc-11eb-86f6-9f2e9d67f89e.gif)
+
 I am a passionate **Full Stack Web Developer** with a knack for creating dynamic and responsive web applications. Currently diving deep into the realms of **Spring Boot** and **Angular**.
 
 - 🎓 Studying at Parul University
@@ -25,29 +27,31 @@ I am a passionate **Full Stack Web Developer** with a knack for creating dynamic
 ## 🌟 Projects
 
 ### 🌤️ React Weather App
+![Weather App](https://user-images.githubusercontent.com/62628408/115366761-2dc24900-a1dd-11eb-9f35-8b9f0f57cf23.png)
 A sleek weather application utilizing the Open Weather API, deployed on Netlify.
 - [Repository](https://github.com/kunjanThakor/weather-app)
 - [Live Demo](https://weatherappreactminiprg.netlify.app/)
 
 ### 🎨 Random Color Generator
+![Color Generator](https://user-images.githubusercontent.com/62628408/115366875-492d5400-a1dd-11eb-83d5-f44b2122b86d.png)
 A fun JavaScript app that generates random hex color codes, deployed on Netlify.
 - [Repository](https://github.com/kunjanThakor/random-color-generator)
 - [Live Demo](https://infinitedevlopers.netlify.app/projects/colorpatate)
 
 ### 🛠️ Angular & Spring Boot Application
+![Full Stack](https://user-images.githubusercontent.com/62628408/115367192-8eea1c80-a1dd-11eb-98e7-072da97e214d.png)
 A robust full-stack application focusing on HTTP requests and basic authentication.
 - [Repository](https://github.com/kunjanThakor/DIGITAL-DOCTOR/tree/master)
 
 ## 📈 GitHub Stats
 
 ![Kunjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunjanThakor&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjanThakor&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [Kunjan Thakor](https://www.linkedin.com/in/kunjan-thakor-b83743282/)
-- **Email:** [your-email@example.com](mailto:kunjan7634@gmail.com)
+- **Email:** [kunjan7634@gmail.com](mailto:kunjan7634@gmail.com)
 
 ---
 
