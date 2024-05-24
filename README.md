@@ -32,11 +32,11 @@ A sleek weather application utilizing the Open Weather API, deployed on Netlify.
 ### 🎨 Random Color Generator
 A fun JavaScript app that generates random hex color codes, deployed on Netlify.
 - [Repository](https://github.com/kunjanThakor/random-color-generator)
-- [Live Demo](https://your-color-generator-demo-link.netlify.app/)
+- [Live Demo](https://infinitedevlopers.netlify.app/projects/colorpatate)
 
 ### 🛠️ Angular & Spring Boot Application
 A robust full-stack application focusing on HTTP requests and basic authentication.
-- [Repository](https://github.com/kunjanThakor/angular-spring-boot-app)
+- [Repository](https://github.com/kunjanThakor/DIGITAL-DOCTOR/tree/master)
 
 ## 📈 GitHub Stats
 
