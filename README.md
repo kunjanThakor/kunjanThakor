@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-![Coding](https://user-images.githubusercontent.com/62628408/115365763-353d5900-a1dc-11eb-86f6-9f2e9d67f89e.gif)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 I am a passionate **Full Stack Web Developer** with a knack for creating dynamic and responsive web applications. Currently diving deep into the realms of **Spring Boot** and **Angular**.
 
@@ -27,19 +27,19 @@ I am a passionate **Full Stack Web Developer** with a knack for creating dynamic
 ## 🌟 Projects
 
 ### 🌤️ React Weather App
-![Weather App](https://user-images.githubusercontent.com/62628408/115366761-2dc24900-a1dd-11eb-9f35-8b9f0f57cf23.png)
+![Weather App](https://user-images.githubusercontent.com/20955511/88938066-cabc9c80-d29b-11ea-9b11-3f2c67d650d4.png)
 A sleek weather application utilizing the Open Weather API, deployed on Netlify.
 - [Repository](https://github.com/kunjanThakor/weather-app)
 - [Live Demo](https://weatherappreactminiprg.netlify.app/)
 
 ### 🎨 Random Color Generator
-![Color Generator](https://user-images.githubusercontent.com/62628408/115366875-492d5400-a1dd-11eb-83d5-f44b2122b86d.png)
+![Color Generator](https://user-images.githubusercontent.com/20955511/88938074-cd1ef680-d29b-11ea-81e9-49f94e55e3e1.png)
 A fun JavaScript app that generates random hex color codes, deployed on Netlify.
 - [Repository](https://github.com/kunjanThakor/random-color-generator)
 - [Live Demo](https://infinitedevlopers.netlify.app/projects/colorpatate)
 
 ### 🛠️ Angular & Spring Boot Application
-![Full Stack](https://user-images.githubusercontent.com/62628408/115367192-8eea1c80-a1dd-11eb-98e7-072da97e214d.png)
+![Full Stack](https://user-images.githubusercontent.com/20955511/88938079-cf815080-d29b-11ea-8dbf-1f48763c6ee5.png)
 A robust full-stack application focusing on HTTP requests and basic authentication.
 - [Repository](https://github.com/kunjanThakor/DIGITAL-DOCTOR/tree/master)
 
