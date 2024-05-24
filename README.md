@@ -27,7 +27,7 @@ I am a passionate **Full Stack Web Developer** with a knack for creating dynamic
 ### 🌤️ React Weather App
 A sleek weather application utilizing the Open Weather API, deployed on Netlify.
 - [Repository](https://github.com/kunjanThakor/weather-app)
-- [Live Demo](https://https://weatherappreactminiprg.netlify.app/)
+- [Live Demo](https://weatherappreactminiprg.netlify.app/)
 
 ### 🎨 Random Color Generator
 A fun JavaScript app that generates random hex color codes, deployed on Netlify.
