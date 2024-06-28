@@ -12,6 +12,10 @@ I am a passionate **Full Stack Web Developer** with a knack for creating dynamic
 - 🌱 Continuously learning and evolving
 - 💼 Always open to new challenges and opportunities
 
+  ## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kunjanThakor&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
