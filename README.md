@@ -12,8 +12,18 @@ I am a passionate **Full Stack Web Developer** with a knack for creating dynamic
 - 🌱 Continuously learning and evolving
 - 💼 Always open to new challenges and opportunities
 
-  ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunjanThakor&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Kunjan Thakor's GitHub Profile
+
+## GitLab Profile and Stats
+
+[![GitLab Badge](https://img.shields.io/badge/GitLab-kunjanThakor-orange?logo=gitlab)](https://gitlab.com/kunjanThakor)
+
+![GitLab Projects](https://img.shields.io/badge/dynamic/json?color=blue&label=GitLab%20Projects&query=$.public_projects_count&url=https://gitlab.com/api/v4/users/kunjanThakor)
+
+---
+
+
 
 
 ## 🔧 Technologies & Tools
